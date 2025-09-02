@@ -8,8 +8,10 @@ Principal Component Analysis is a powerful technique used for dimensionality red
 Step-by-Step Procedure:-
 Step 1: Load the Data:
                       We start by loading the wine dataset, which includes measurements for various variables such as alcohol, ash, magnesium, and so on. For this example, we'll use a publicly available wine dataset.
+                      
 Step 2: Preprocess the Data:
                       Preprocessing steps include handling missing values, scaling the data, and ensuring that the data is suitable for PCA.
+                      
 Step 3: Apply PCA:
                    We apply PCA to transform the original dataset into a new set of variables (principal components). The goal is to capture most of the variability in the data with a smaller number of principal components.
 
