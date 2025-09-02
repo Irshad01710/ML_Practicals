@@ -6,6 +6,7 @@ Dataset- Wine dataset [https://www.kaggle.com/datasets/hrdkcodes/wine-data]
 Principal Component Analysis is a powerful technique used for dimensionality reduction while preserving as much variability as possible in the data. In this experiment, we will apply PCA to a wine dataset to reduce its dimensionality and help distinguish between red and white wine based on principal components.
 
 Step-by-Step Procedure:-
+
 Step 1: Load the Data:
                       We start by loading the wine dataset, which includes measurements for various variables such as alcohol, ash, magnesium, and so on. For this example, we'll use a publicly available wine dataset.
                       
