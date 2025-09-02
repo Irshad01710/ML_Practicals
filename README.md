@@ -1,6 +1,6 @@
 # ML_Practicals
 
-# Principal Component Analysis (PCA) 
+# 1(A)Principal Component Analysis (PCA) 
 
 ## Dataset- Wine dataset 
 - Source: [https://www.kaggle.com/datasets/hrdkcodes/wine-data]
@@ -26,7 +26,7 @@ Principal Component Analysis is a powerful technique used for dimensionality red
 By applying PCA, we reduced the dimensionality of the wine dataset and visualized it using the first two principal components. The plot shows how the principal components help in distinguishing between red and white wine. While PCA can capture a significant portion of the variability, it is often beneficial to experiment with more components and further analysis to improve classification and understanding of the data.
 
 
-# Linear Discriminant Analysis (LDA)
+# 1(B)Linear Discriminant Analysis (LDA)
 
 ## Dataset- Iris dataset
 - Source: [https://www.kaggle.com/datasets/uciml/iris]
