@@ -1,4 +1,5 @@
 # ML_Practicals
+
 # Principal Component Analysis (PCA) 
 
 ## Dataset- Wine dataset 
@@ -23,3 +24,24 @@ Principal Component Analysis is a powerful technique used for dimensionality red
 
 - Conclusion:-
 By applying PCA, we reduced the dimensionality of the wine dataset and visualized it using the first two principal components. The plot shows how the principal components help in distinguishing between red and white wine. While PCA can capture a significant portion of the variability, it is often beneficial to experiment with more components and further analysis to improve classification and understanding of the data.
+
+
+# Linear Discriminant Analysis (LDA)
+
+## Dataset- Iris dataset
+- Source: [https://www.kaggle.com/datasets/uciml/iris]
+
+LDA is a supervised dimensionality reduction technique that maximizes the separation between multiple classes. In this experiment, we will apply LDA to an iris dataset to reduce its dimensionality and help distinuishing between different species.
+
+## Step-by-Step Procedure:- 
+- Step 1: Load and Prepare the Iris Dataset:
+                    The Iris dataset is readily available in scikit-learn. Here's how to load and prepare it.
+
+-Step 2: Apply LDA for Classification:
+                    Now, apply LDA to reduce dimensions and classify the species.
+
+-Step 3: Visualize the Results:
+                    To better understand the classification, visualize the decision boundaries and the LDA projections.
+
+-Conclusion:- 
+We successfully applied Linear Discriminant Analysis (LDA) to the Iris dataset to classify iris flowers into their respective species. LDA proved to be an effective technique for both dimensionality reduction and classification by maximizing the separability between the three species classes.
